@@ -72,6 +72,9 @@ Nuestro manejador de eventos personalizado, utilizado en todos nuestros nuevos p
 Suscríbete al canal de YouTube de nuestro fundador:
 [🎥 youtube.com/@aacdOPINION](https://www.youtube.com/@aacdOPINION)
 
+Síguenos en Instagram:
+[instagram.com/1dark_actions](https://www.instagram.com/1dark_actions)
+
 Únete a nuestra comunidad en Discord:
 [🔗 discord.gg/N3kGxGTW7p](https://discord.gg/N3kGxGTW7p)
 
