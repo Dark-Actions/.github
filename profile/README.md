@@ -81,6 +81,7 @@ Suscríbete al canal de YouTube de nuestro fundador:
 
 * **TypeScript / JavaScript**
 * **React Native**
+* **Expo**
 * **MongoDB**
 * **Astro**
 * **Bun / Node.js**
