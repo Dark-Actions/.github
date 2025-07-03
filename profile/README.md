@@ -10,7 +10,7 @@
 
 ## 👥 ¿Quiénes somos?
 
-**Dark-Actions** es una organización de desarrollo enfocada en crear **sistemas inteligentes para instituciones educativas** y **bots avanzados para Discord**, como el popular [DarkPro (Dark)](https://discord.com/oauth2/authorize?client_id=899466667552309269&permissions=8&integration_type=0&scope=applications.commands+bot) o [Dark Tickets](https://discord.com/oauth2/authorize?client_id=988199264503091210&permissions=8&integration_type=0&scope=bot+applications.commands).
+**Dark-Actions** es una organización de desarrollo enfocada en crear **sistemas inteligentes para instituciones educativas** y **bots avanzados para Discord**, como el popular [DarkPro (Dark)](https://discord.com/oauth2/authorize?client_id=899466667552309269&permissions=8&integration_type=0&scope=applications.commands+bot) y [Dark Tickets](https://discord.com/oauth2/authorize?client_id=988199264503091210&permissions=8&integration_type=0&scope=bot+applications.commands).
 
 ### 🧠 Equipo principal
 
