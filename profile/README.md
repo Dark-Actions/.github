@@ -38,9 +38,11 @@ Creamos bots potentes, personalizados y confiables para comunidades:
 
 #### ✨ [DarkPro (Dark)](https://discord.com/oauth2/authorize?client_id=899466667552309269&permissions=8&integration_type=0&scope=applications.commands+bot)
 
+* Traducción de mensajes automática
+* Sistema de sugerencias avanzado
 * Moderación inteligente
 * Tickets y paneles de soporte
-* Comandos personalizados
+* Comandos personalizados (de barra y de mensaje)
 
 #### 📃 [Dark Tickets](https://discord.com/oauth2/authorize?client_id=988199264503091210&permissions=8&integration_type=0&scope=bot+applications.commands)
 
