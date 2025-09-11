@@ -15,8 +15,8 @@
 ### 🧠 Equipo principal
 
 * **jeremiasbots** (`@jeremiasbots` / `@devep`) — Fundador & Desarrollador Principal
-* **TGSsirett31** — Cofundador & Coordinador de Proyectos
-* **JoaquingameR1717** — Apoyo Técnico y Voluntario de Desarrollo
+* **TGSsirett31** — Cofundador & Coordinador de Proyectos.
+* **Diego Toloza** - Gestor de marketing y comunicación.
 
 📧 **Contacto:** [dark-actions@doitall.work](mailto:dark-actions@doitall.work)
 
