@@ -18,7 +18,7 @@
 * **TGSsirett31** — Cofundador & Coordinador de Proyectos.
 * **Diego Toloza** - Gestor de marketing y comunicación.
 
-📧 **Contacto:** [marketing@doitall.work](mailto:marketing@doitall.work)
+📧 **Contacto:** [marketing@dark-actions.com](mailto:marketing@dark-actions.com)
 
 ---
 
@@ -113,7 +113,7 @@ Síguenos en Instagram:
 * **Sokrana** *(su propósito será revelado en 2026)*
 * **Zeus** *(su propósito también será revelado en 2026. Forma parte de la suborganización dedicada a estos proyectos: [MDLZeus](https://github.com/MDLZeus))*
 
-Escríbenos: [marketing@doitall.work](mailto:marketing@doitall.work)
+Escríbenos: [marketing@dark-actions.com](mailto:marketing@dark-actions.com)
 
 ---
 
