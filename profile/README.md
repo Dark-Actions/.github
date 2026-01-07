@@ -15,7 +15,6 @@
 ### 🧠 Equipo principal
 
 * **jeremiasbots** (`@jeremiasbots` / `@devep`) — Fundador & Desarrollador Principal
-* **TGSsirett31** — Cofundador & Coordinador de Proyectos.
 * **Diego Toloza** - Gestor de marketing y comunicación.
 
 📧 **Contacto:** [marketing@dark-actions.com](mailto:marketing@dark-actions.com)
@@ -117,4 +116,4 @@ Escríbenos: [marketing@dark-actions.com](mailto:marketing@dark-actions.com)
 
 ---
 
-© 2025 Dark-Actions. Todos los derechos reservados.
+© 2026 Dark-Actions. Todos los derechos reservados.
