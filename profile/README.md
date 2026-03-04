@@ -14,7 +14,8 @@
 
 ### 🧠 Equipo principal
 
-* **jeremiasbots** (`@jeremiasbots` / `@devep`) — Fundador & Desarrollador Principal
+* **jeremiasbots** (`@jeremiasbots` / `@devep`) — Fundador & Desarrollador Principal.
+* **Sebastián Sirrett** (`@Ssirrett31`) - Cofundador & Desarrollador de Frontend.
 * **Diego Toloza** - Gestor de marketing y comunicación.
 
 📧 **Contacto:** [marketing@dark-actions.com](mailto:marketing@dark-actions.com)
