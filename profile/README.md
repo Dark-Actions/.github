@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/200270380?s=200&v=4" alt="Dark-Actions Logo" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/200270380?s=200&v=4" alt="Darkian Logo" width="150" />
 </p>
 
-# 🌑 Dark-Actions
+# 🌑 Darkian
 
 **Innovación que automatiza. Tecnología que educa.**
 
@@ -10,7 +10,7 @@
 
 ## 👥 ¿Quiénes somos?
 
-**Dark-Actions** es una organización de desarrollo enfocada en crear **sistemas inteligentes para instituciones educativas** y **bots avanzados para Discord**, como el popular [DarkPro (Dark)](https://discord.com/oauth2/authorize?client_id=899466667552309269&permissions=8&integration_type=0&scope=applications.commands+bot) y [Dark Tickets](https://discord.com/oauth2/authorize?client_id=988199264503091210&permissions=8&integration_type=0&scope=bot+applications.commands).
+**Darkian** es una organización de desarrollo enfocada en crear **sistemas inteligentes para instituciones educativas** y **bots avanzados para Discord**, como el popular [DarkPro (Dark)](https://discord.com/oauth2/authorize?client_id=899466667552309269&permissions=8&integration_type=0&scope=applications.commands+bot) y [Dark Tickets](https://discord.com/oauth2/authorize?client_id=988199264503091210&permissions=8&integration_type=0&scope=bot+applications.commands).
 
 ### 🧠 Equipo principal
 
@@ -50,10 +50,10 @@ Creamos bots potentes, personalizados y confiables para comunidades:
 * Respuestas automáticas configurables
 * Integrado con Discord y próximamente con panel web
 
-#### 🤔 **Tob** *(próximamente)*
+#### 🤔 **Simustra** *(próximamente)*
 
-* Bot innovador para responder preguntas directamente desde un canal de voz
-* Diseñado para brindar asistencia automática en tiempo real
+* Plataforma revolucionaria para incentivar el aprendizaje en los estudiantes
+* Hace que los estudiantes aprendan cada día fuera del aula de forma voluntaria
 
 ---
 
