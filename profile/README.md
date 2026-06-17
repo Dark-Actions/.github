@@ -50,7 +50,7 @@ Creamos bots potentes, personalizados y confiables para comunidades:
 * Respuestas automáticas configurables
 * Integrado con Discord y próximamente con panel web
 
-#### ⚡️📕 [Simustra](https://simustra.co)*
+#### ⚡️📕 [Simustra](https://simustra.co)
 
 * Plataforma revolucionaria para incentivar el aprendizaje en los estudiantes
 * Hace que los estudiantes aprendan cada día fuera del aula de forma voluntaria
