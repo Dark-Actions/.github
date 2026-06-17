@@ -50,7 +50,7 @@ Creamos bots potentes, personalizados y confiables para comunidades:
 * Respuestas automáticas configurables
 * Integrado con Discord y próximamente con panel web
 
-#### 🤔 **Simustra** *(próximamente)*
+#### ⚡️📕 [Simustra](https://simustra.co)*
 
 * Plataforma revolucionaria para incentivar el aprendizaje en los estudiantes
 * Hace que los estudiantes aprendan cada día fuera del aula de forma voluntaria
@@ -74,14 +74,14 @@ Nuestro manejador de eventos personalizado, utilizado en todos nuestros nuevos p
 Visita nuestra web:
 [👀 Darkian | La revolución del software](https://darkian.co)
 
-Suscríbete al canal de YouTube de nuestro fundador:
-[🎥 youtube.com/@aacdOPINION](https://www.youtube.com/@aacdOPINION)
+Suscríbete a nuestro canal de YouTube:
+[🎥 youtube.com/@darkianco](https://www.youtube.com/@darkianco)
 
 Síguenos en Instagram:
-[🖼️instagram.com/1dark_actions](https://www.instagram.com/1dark_actions)
+[🖼️instagram.com/darkian.co](https://www.instagram.com/darkian.co)
 
 Únete a nuestra comunidad en Discord:
-[🔗 discord.gg/N3kGxGTW7p](https://discord.gg/N3kGxGTW7p)
+[🔗 discord.gg/Enm9xCR7pf](https://discord.gg/Enm9xCR7pf)
 
 ---
 
@@ -113,8 +113,8 @@ Síguenos en Instagram:
 
 * **MDL**
 * **Fromto**
-* **Sokrana** *(su propósito será revelado en 2026)*
-* **Zeus** *(su propósito también será revelado en 2026. Forma parte de la suborganización dedicada a estos proyectos: [MDLZeus](https://github.com/MDLZeus))*
+* **Sokrana** *(su propósito será revelado a finales de este año)*
+* **Zeus** *(su propósito también será revelado a finales de este año)*
 
 Escríbenos: [marketing@darkian.co](mailto:marketing@darkian.co)
 
