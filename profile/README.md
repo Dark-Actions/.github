@@ -18,7 +18,7 @@
 * **Sebastián Sirrett** (`@Ssirrett31`) - Cofundador & Desarrollador de Frontend.
 * **Diego Toloza** - Gestor de marketing y comunicación.
 
-📧 **Contacto:** [marketing@dark-actions.com](mailto:marketing@dark-actions.com)
+📧 **Contacto:** [marketing@darkian.co](mailto:marketing@darkian.co)
 
 ---
 
@@ -71,6 +71,9 @@ Nuestro manejador de eventos personalizado, utilizado en todos nuestros nuevos p
 
 ## 📡 En otros medios
 
+Visita nuestra web:
+[👀 Darkian | La revolución del software](https://darkian.co)
+
 Suscríbete al canal de YouTube de nuestro fundador:
 [🎥 youtube.com/@aacdOPINION](https://www.youtube.com/@aacdOPINION)
 
@@ -113,8 +116,8 @@ Síguenos en Instagram:
 * **Sokrana** *(su propósito será revelado en 2026)*
 * **Zeus** *(su propósito también será revelado en 2026. Forma parte de la suborganización dedicada a estos proyectos: [MDLZeus](https://github.com/MDLZeus))*
 
-Escríbenos: [marketing@dark-actions.com](mailto:marketing@dark-actions.com)
+Escríbenos: [marketing@darkian.co](mailto:marketing@darkian.co)
 
 ---
 
-© 2026 Dark-Actions. Todos los derechos reservados.
+© 2026 Darkian. Todos los derechos reservados.
