@@ -14,7 +14,7 @@
 
 ### 🧠 Equipo principal
 
-* **jeremiasbots** (`@jeremiasbots` / `@devep`) — Fundador & Desarrollador Principal.
+* **Marcelo Bravo Solé** (`@jeremiasbots` / `@devep`) — Fundador & Desarrollador Principal.
 * **Sebastián Sirrett** (`@Ssirrett31`) - Cofundador & Desarrollador de Frontend.
 * **Diego Toloza** - Gestor de marketing y comunicación.
 
