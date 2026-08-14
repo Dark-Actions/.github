@@ -16,7 +16,6 @@
 
 * **Marcelo Bravo Solé** (`@jeremiasbots` / `@devep`) — Fundador & Desarrollador Principal.
 * **Sebastián Sirrett** (`@Ssirrett31`) - Cofundador & Desarrollador de Frontend.
-* **Diego Toloza** - Gestor de marketing y comunicación.
 
 📧 **Contacto:** [marketing@darkian.co](mailto:marketing@darkian.co)
 
